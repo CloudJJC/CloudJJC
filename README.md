@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CloudJJC
-- 👀 I’m interested in cloud computing
+- 👀 I’m interested in everything cloud computing
 - 🌱 I’m currently learning how to architect cloud solutions 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me on LinkedIn
